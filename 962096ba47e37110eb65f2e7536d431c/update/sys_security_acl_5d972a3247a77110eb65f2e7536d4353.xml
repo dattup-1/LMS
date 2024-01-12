@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_1215082_lms_leave_bucket</description>
+        <local_or_existing>Local</local_or_existing>
+        <name>x_1215082_lms_leave_bucket</name>
+        <operation display_value="create">create</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-09 09:11:45</sys_created_on>
+        <sys_id>5d972a3247a77110eb65f2e7536d4353</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1215082_lms_leave_bucket</sys_name>
+        <sys_package display_value="Leave Management System" source="x_1215082_lms">962096ba47e37110eb65f2e7536d431c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management System">962096ba47e37110eb65f2e7536d431c</sys_scope>
+        <sys_update_name>sys_security_acl_5d972a3247a77110eb65f2e7536d4353</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-09 09:11:45</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
