@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Leave Request)">33a416be47277110eb65f2e7536d4321</button>
+        <item_parameter display_value="Leave Request leave_type">33a416be47277110eb65f2e7536d4313</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-09 07:49:11</sys_created_on>
+        <sys_id>f7a416be47277110eb65f2e7536d4323</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>33a416be47277110eb65f2e7536d4313</sys_name>
+        <sys_package display_value="Leave Management System" source="x_1215082_lms">962096ba47e37110eb65f2e7536d431c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management System">962096ba47e37110eb65f2e7536d431c</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_f7a416be47277110eb65f2e7536d4323</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-09 07:49:11</sys_updated_on>
+        <ui_parameter display_value="Leave Type">37a416be47277110eb65f2e7536d4321</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

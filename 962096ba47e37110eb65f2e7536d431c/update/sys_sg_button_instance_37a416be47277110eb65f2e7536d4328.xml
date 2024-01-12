@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Edit Button (Leave Request)">f7a416be47277110eb65f2e7536d4326</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Edit</label>
+        <location>top</location>
+        <name>Edit (Leave Request)</name>
+        <order/>
+        <parent>37a416be47277110eb65f2e7536d430a</parent>
+        <parent_table>sys_sg_form_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-09 07:49:12</sys_created_on>
+        <sys_id>37a416be47277110eb65f2e7536d4328</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Edit (Leave Request)</sys_name>
+        <sys_package display_value="Leave Management System" source="x_1215082_lms">962096ba47e37110eb65f2e7536d431c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management System">962096ba47e37110eb65f2e7536d431c</sys_scope>
+        <sys_update_name>sys_sg_button_instance_37a416be47277110eb65f2e7536d4328</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-09 07:49:12</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=37a416be47277110eb65f2e7536d4328"/>
+</record_update>
